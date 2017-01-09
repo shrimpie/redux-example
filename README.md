@@ -1,0 +1,1 @@
+A simple redux example following the course of Alex Banks @Lynda.com.
